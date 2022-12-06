@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.heading:hover{
+    font-size: large;
+}
+.link{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    width: 80px;
+    font-size: 20px;
+    color: aliceblue;
+    float: right;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
+#status{
+    margin-left: 80;
+}
